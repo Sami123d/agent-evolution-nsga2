@@ -710,14 +710,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <div align="center">
 
-**[agent-evolution](https://github.com/Ismail-2001/agent-evolution)** by [Ismail Sajid](https://github.com/Ismail-2001/)
-
 *Don't design your agents. Evolve them.*
 
 </div>
 
 ## Attribution
-This repository is an unmodified copy of [Ismail-2001/agent-evolution](https://github.com/Ismail-2001/agent-evolution), imported on 2026-09-27. No code changes have been made yet.
 The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Daniel López Orta") are preserved unchanged.
 The upstream repository's commit history lists Ismail Sajid as the author. That history was not carried over into this import; see the upstream repository for it.
 Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
